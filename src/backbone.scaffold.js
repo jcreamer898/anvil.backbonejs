@@ -41,7 +41,7 @@ module.exports = function( _, anvil ) {
         ],
         output: {
             "src/{{{modelFolder}}}/{{{modelName}}}.js": function( data, done ) {
-                if ( data.amd == false ) {
+                if ( data.amd == "yes" ) {
                     anvil.fs.read( root + "/lib/templates/model.amd.js", done );
                 }
                 else {

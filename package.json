@@ -10,7 +10,8 @@
   "keywords": [
     "anvil",
     "backbone",
-    "plugin"
+    "plugin",
+    "scaffold"
   ],
   "author": "Jonathan Creamer",
   "license": "MIT"
