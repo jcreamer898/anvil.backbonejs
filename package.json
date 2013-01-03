@@ -1,0 +1,17 @@
+{
+  "name": "anvil.backbonejs",
+  "version": "0.0.1",
+  "description": "Provides scaffolding for backbone.js apps.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jcreamer898/anvil.backbonejs.git"
+  },
+  "main": "./lib/backbone.scaffold.js",
+  "keywords": [
+    "anvil",
+    "backbone",
+    "plugin"
+  ],
+  "author": "Jonathan Creamer",
+  "license": "MIT"
+}
